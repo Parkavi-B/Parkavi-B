@@ -1,15 +1,22 @@
 <h1 align="center">Hi 👋, I'm Parkavi</h1>
-<h3 align="center">I'm currently IT student at Sri Ramakrishana Institute of Technology.</h3>
+<h3 align="center">A passionate individual with a Bachelor of Technology in Information Technology, which has equipped me with a solid foundation in the principles and practices of IT.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parkavi-b&label=Profile%20views&color=0e75b6&style=flat" alt="parkavi-b" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=parkavi-b" alt="parkavi-b" /></a> </p>
 
-- 🌱 I’m currently learning **front end development**
+1. Skills
+   
+- MySQL
+- Front end Development
+- Java
 
-- 💬 Ask me about **Front end**
+2. Certification
 
-- 📫 How to reach me **parkavibhuvanendran007@gmail.com**
+- Attended a Workshop on Agile FrameWork and Internet of Things
+- AWS Cloud Practitioner Essentials course certificate – Coursera
+- SQL intermediate level certification - Hackerrank
+- Cloud Computing course certificate-NPTEL
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
